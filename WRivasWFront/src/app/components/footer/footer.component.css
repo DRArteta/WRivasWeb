@@ -18,6 +18,10 @@
   justify-content: center;
 }
 
+:host >>> .p-button{
+  margin: 10px;
+}
+
 .footer-basic li {
   padding:0 10px;
 }
